@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tabarak
+ *
+ */
+module exmple {
+}
